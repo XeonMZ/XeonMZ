@@ -20,6 +20,6 @@ For more info about me:
 ![CovaMC](https://cdn.discordapp.com/attachments/993052519238488114/1067222825347321926/20230121_151629.png)
 
 Join The [Discord](https://discord.gg/jdpdKMgXQ8)<br />
-Website: [www.CovaMC.xyz](https://www.covamc.xyz)<br /> 
+Website: [covamc](https://www.covamc.xyz)<br /> 
 
 
