@@ -4,15 +4,22 @@
 # Hey! I'm aero!
 -  I lead developer At CovaMC [Discord](https://discord.gg/jdpdKMgXQ8)<br />
 
--  I have worked with C++, PHP, HTML, Go, Python, Unity.
+-  I have worked with PHP, HTML, CSS, Node.JS.
+
+-  Currently studying Python.
+
+-  I am a student at the UI (UNIVERSITAS INDONESIA)
 
 Follow me on [YouTube](https://youtube.com/@aeroyet)<br />
-
-# CovaMC [BE/PE]
-
-[Discord](https://discord.gg/jdpdKMgXQ8)<br />
 
 For more info about me:
 
 *Discord:AeroDEV#6039*
+
+# CovaMC [BE/PE]
+![CovaMC](https://cdn.discordapp.com/attachments/993052519238488114/1067222825347321926/20230121_151629.png)
+
+Join The [Discord](https://discord.gg/jdpdKMgXQ8)<br />
+Website: [www.CovaMC.xyz](https://www.covamc.xyz)<br /> 
+
 
