@@ -1,7 +1,7 @@
 # My stats
-![Aero GitHub stats](https://github-readme-stats.vercel.app/api?username=XeonMZ&theme=github_dark&show_icons=true)
+![LyTe GitHub stats](https://github-readme-stats.vercel.app/api?username=XeonMZ&theme=github_dark&show_icons=true)
 
-# Hey! I'm aero!
+# Hey! I'm LyTe!
 -  I lead developer At CovaMC [Discord](https://discord.gg/jdpdKMgXQ8)<br />
 
 -  I have worked with PHP, HTML, CSS, Node.JS.
@@ -14,7 +14,9 @@ Follow me on [YouTube](https://youtube.com/@aeroyet)<br />
 
 For more info about me:
 
-*Discord:AeroDEV#6039*
+*Discord:*
+*- lytedev0*
+*- *
 
 # CovaMC [BE/PE]
 ![CovaMC](https://cdn.discordapp.com/attachments/993052519238488114/1067222825347321926/20230121_151629.png)
